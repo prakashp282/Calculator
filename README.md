@@ -1,4 +1,3 @@
-# NLevelaArchitecture
-Basics 
-Server <--> ClientServer <---> Client
-communication
+# Calculator
+
+A copy of the Google Calculator on Android - but as a web-app.
