@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "rm -rf ./dist/*",
     "start": "webpack-dev-server --progress",
-    "build": "npm run clean && webpack -p --progress"
+    "build": "webpack -p --progress"
   },
   "author": "Prakash Patel",
   "license": "ISC",
